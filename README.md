@@ -1,9 +1,9 @@
 @nyarla/http-simulator
 ======================
 
-[![Build Status](https://travis-ci.org/nyarla/http-simulator.svg?branch=master)](https://travis-ci.org/nyarla/http-simulator)
-
   * A utility functions for simulate http access without http server with node.js  
+
+[![Build Status](https://travis-ci.org/nyarla/http-simulator.svg?branch=master)](https://travis-ci.org/nyarla/http-simulator)
 
 SYNOPSIS
 --------
